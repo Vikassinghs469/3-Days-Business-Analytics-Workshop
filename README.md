@@ -1,6 +1,4 @@
-# 3-Days-Business-Analytics-Workshop
-
-# 3 Days Business Intelligence and Analytics Workshop by Coders ready
+#3 Days Data Science and App Development Workshop by Coders Ready
 
 ## In this workshop, we delved into the world of data visualization, exploring both Python and Excel as powerful tools for transforming data into actionable insights. Over the course of three days, we engaged in practical projects that allowed them to create informative visualizations and dashboards.
 
